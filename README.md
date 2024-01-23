@@ -1,0 +1,1 @@
+# Barcode-Qr-Code-Reader-with-OpenCv
